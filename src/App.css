@@ -1,0 +1,9 @@
+main {
+  background-color: #fff8dc;
+  height: 100%;
+  display: flex;
+}
+
+main canvas {
+  margin: auto;
+}
